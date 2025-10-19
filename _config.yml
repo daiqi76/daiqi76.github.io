@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Daiqi"
+title                    : "🎮🏀📓"
 title_separator          : "-"
 name                     : &name "Daiqi Liu"
 description              : &description "Daiqi's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,9 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Daiqi Liu"
   
-  bio              : "PhD Student\n\
-                      Pattern Recognition Lab\n\
-                      FAU"
+  bio              : "PhD Student @ Pattern Recognition Lab"
   location         : "Erlangen, Germany"
   employer         : "Friedrich-Alexander-Universität Erlangen-Nürnberg"
   uri              : "https://lme.tf.fau.de/person/daliu"
