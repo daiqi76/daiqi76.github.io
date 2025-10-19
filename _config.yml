@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Daiqi Liu"
-  
-  bio              : "PhD Student @ Pattern Recognition Lab"
+  pronouns         : "PhD Student" 
+  bio              : "@ Pattern Recognition Lab"
   location         : "Erlangen, Germany"
-  employer         : "Friedrich-Alexander-Universität Erlangen-Nürnberg"
+  employer         : "FAU"
   uri              : "https://lme.tf.fau.de/person/daliu"
   email            : "daiqi.deutschfau.liu@fau.de" 
 
