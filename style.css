@@ -2,8 +2,8 @@
   /* Clean Academic Palette */
   --bg-dark: #ffffff;
   --bg-alt: #f8fafc;
-  --primary: #2563eb;
-  /* Royal Blue */
+  --primary: #ea580c;
+  /* Warm Orange */
   --text-main: #1e293b;
   --text-muted: #64748b;
   --border: #e2e8f0;
@@ -13,7 +13,7 @@
 .dark-mode {
   --bg-dark: #0f172a;
   --bg-alt: #1e293b;
-  --primary: #3b82f6;
+  --primary: #fb923c;
   --text-main: #f1f5f9;
   --text-muted: #94a3b8;
   --border: #334155;
