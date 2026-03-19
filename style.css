@@ -558,8 +558,16 @@ h3,
   transform: none;
 }
 
+.mobile-menu-btn {
+  display: none;
+}
+
 /* Mobile Responsive */
 @media (max-width: 768px) {
+  .mobile-menu-btn {
+    display: block;
+  }
+
   .nav-links {
     display: none;
   }
