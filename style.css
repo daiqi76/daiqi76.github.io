@@ -228,9 +228,8 @@ h3,
 }
 
 .bio a:hover {
-  background-color: var(--primary-glow);
-  color: white;
-  border-bottom-style: solid;
+  color: var(--primary);
+  text-decoration: underline;
 }
 
 .highlight {
